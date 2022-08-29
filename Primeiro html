@@ -1,0 +1,20 @@
+<html lang="pt/br">
+<head>
+    <title>Estudando Html</title>
+    <style>
+        h1 {
+            font-family: Arial;
+            font-size: 30pt;
+            color: blue;
+            text-shadow: 30px 35px 36px black;
+        }
+    </style>
+<body>
+<h1> oba me livrei</h1>
+<h1>Olá, mundo!!</h1>
+<h2> boa dia</h2>
+</body>
+
+</head>
+
+</html>
